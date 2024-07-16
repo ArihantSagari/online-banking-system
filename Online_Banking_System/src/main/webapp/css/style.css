@@ -1,0 +1,27 @@
+/* Custom styles for your online banking system */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+}
+
+.jumbotron .display-4 {
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    margin-top: 1rem;
+}
